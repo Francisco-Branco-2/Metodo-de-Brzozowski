@@ -1,0 +1,17 @@
+# Compilation binaries and object files
+ep1
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.a
+*.cma
+*.cmxa
+
+# Editor and IDE configurations
+.claude/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
